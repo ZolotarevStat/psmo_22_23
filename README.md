@@ -5,13 +5,6 @@
 
 [Ссылка на прошлогодний курс на Вики ФКН](http://wiki.cs.hse.ru/Psmo_21_22)
 
-# Рекомендуемая литература для самостоятельного изучения тем курса
-
-* [Лёгкая](https://e-l.unifi.it/pluginfile.php/440210/mod_resource/content/1/Stats_Behavioral_Science_gravetter.pdf)
-* [Средняя](https://egrcc.github.io/docs/math/all-of-statistics.pdf)
-* [Сложная](https://vk.com/doc409016625_631427142)
-* [Дополнительная](https://vk.com/doc247411462_446591338)
-
 # Темы
 * Теория информации
 * Метод максимального правдоподобия
@@ -25,3 +18,10 @@
 * * Эндогенность
 * * Мультиколлинеарность
 * * L1, L2 регуляризация как метод байесовской оценки коэффициентов линейной регрессии
+
+# Рекомендуемая литература для самостоятельного изучения тем курса
+
+* [Лёгкая](https://e-l.unifi.it/pluginfile.php/440210/mod_resource/content/1/Stats_Behavioral_Science_gravetter.pdf)
+* [Средняя](https://egrcc.github.io/docs/math/all-of-statistics.pdf)
+* [Сложная](https://vk.com/doc409016625_631427142)
+* [Дополнительная](https://vk.com/doc247411462_446591338)
