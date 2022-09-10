@@ -7,6 +7,8 @@
 
 # Темы
 * Теория информации
+* * [лекция 1](https://youtu.be/hk0h3s4UOug), [конспект лекции 1 от студента](https://exuberant-arthropod-be8.notion.site/1-02-09-5e107ea1c4054594b8f37d955db8a2b0), [семинар 1](https://github.com/ZolotarevStat/psmo_22_23/blob/main/seminars/sem1information_theory.pdf)
+* * [лекция 2](https://youtu.be/i4yZDlf-b5A), [конспект лекции 2 от студента](), [семинар 2]()
 * Метод максимального правдоподобия
 * Проверка гипотез
 * ЕМ-алгоритм
