@@ -11,7 +11,7 @@
 * * [лекция 2](https://youtu.be/i4yZDlf-b5A), [конспект лекции 2 от студента](), [семинар 2]()
 * * [Квиз 1](https://github.com/ZolotarevStat/psmo_22_23/blob/main/quizes/Quiz_1_2022_Information_Theory.pdf)
 * Метод максимального правдоподобия
-* * [семинар 2](https://github.com/ZolotarevStat/psmo_22_23/blob/main/seminars/sem2max_likelihood.pdf)
+* * [семинар 3](https://github.com/ZolotarevStat/psmo_22_23/blob/main/seminars/sem2max_likelihood.pdf)
 * Проверка гипотез
 * ЕМ-алгоритм
 * bootstrap, jacknife, статистические свойства кросс-валидации
